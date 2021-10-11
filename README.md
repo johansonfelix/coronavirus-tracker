@@ -1,12 +1,11 @@
 <div id="top"></div>
 
-<div align="center">
 [![github-follow][github-follow]][github-url]
 [![website][github-pages]][github-pages-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
+
 
 
 <!-- PROJECT LOGO -->
