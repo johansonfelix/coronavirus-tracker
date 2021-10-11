@@ -77,11 +77,11 @@ The data is updated daily and can be exported from the application in various fi
 
 ### Built With
 
-Coronavirus Tracker was built with following technologies:
+Coronavirus Tracker was built with the following technologies:
 
 * [Java](https://java.com/) with [Maven](https://maven.apache.org/)
-* [Spring Boot](https://reactjs.org/)
-* [Thymeleaf](https://vuejs.org/)
+* [Spring Boot](https://spring.io/)
+* [Thymeleaf](https://thymeleaf.org/)
 
 * Deployed on [Heroku](https://heroku.com/)
 
@@ -101,6 +101,8 @@ To setup the application on your local environment:
   java --version
   ```
  * Maven  
+ 
+ * Compiler: Intellij (Personal Preference)
 
 
 ### Installation
@@ -136,6 +138,9 @@ To setup the application on your local environment:
 - [] Add graphs and comparison mechanism
 - [] Add reported number of deaths and recovered cases data
 
+1. Some state/values are saved in the Spring Service (bad practice). The application is simple and small which justifies my reason to have some state saved in the service.
+2. The application does not have any tests at the moment.
+3. The data validity is not checked. The application is experimental - data may be incorrect.
 
 See the [open issues](https://github.com/johansonfelix/coronavirus-tracker/issues) for a full list of proposed features (and known issues).
 
@@ -174,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 [Johanson Felix](johansonfelix.github.io) - (felix.johanson@gmail.com) 
-
+[LinkedIn][license-url]
 Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https://github.com/johansonfelix/coronavirus-tracker.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -185,6 +190,7 @@ Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https:/
 ## Acknowledgments
 
 * [koushikkothagal](https://github.com/koushikkothagal)
+* [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
