@@ -114,9 +114,9 @@ To setup the application on your local environment:
 
 ### Prerequisites
 
-* Java 11
+* Java 12
   ```sh
- java --version
+  java --version
   ```
 
 ### Installation
