@@ -195,7 +195,7 @@ Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 [github-follow]:https://img.shields.io/badge/Follow-black.svg?style=for-the-badge&logo=github&color=555
 [github-url]:https://github.com/johansonfelix
-[github-pages]:https://img.shields.io/badge/-johansonfelix-red.svg?style=for-the-badge&color=555
+[github-pages]:https://img.shields.io/badge/-johansonfelix?style=for-the-badge&color=FF0000
 [github-pages-url]:https://johansonfelix.gihub.io
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/johansonfelix/coronavirus-tracker/issues
