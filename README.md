@@ -87,7 +87,7 @@ Since the pandemic began, a great deal of information has circulated online and 
 
 Coronavirus Tracker allows for one to look at the data rationally and to have the data speak for itself. The application tracks the total number of reported cases across the globe and the total number of cases reported per country and province.
 
-The is updated daily and can be exported from the application in various file formats. 
+The data is updated daily and can be exported from the application in various file formats. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ The is updated daily and can be exported from the application in various file fo
 
 Coronavirus Tracker was built with following technologies:
 
-* [Java](https://spring.io/)
+* [Java](https://spring.io/) with [Maven](https://maven.apache.org/)
 * [Spring Boot](https://reactjs.org/)
 * [Thymeleaf](https://vuejs.org/)
 
@@ -110,15 +110,13 @@ Coronavirus Tracker was built with following technologies:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To setup the application on your local environment: 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Java 11
   ```sh
-  npm install npm@latest -g
+ java --version
   ```
 
 ### Installation
