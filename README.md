@@ -193,7 +193,7 @@ Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https:/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[github-follow]:https://img.shields.io/badge/Follow-black.svg?style=for-the-badge&logo=github&color=red
+[github-pages]:https://img.shields.io/badge/-johansonfelix.svg?style=for-the-badge&color=FF0000
 [github-url]:https://github.com/johansonfelix
 [github-pages]:https://img.shields.io/badge/-johansonfelix.svg?style=for-the-badge&color=FF0000
 [github-pages-url]:https://johansonfelix.gihub.io
