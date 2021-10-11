@@ -20,7 +20,7 @@
   <p align="center">
     Simple Spring Boot application tracking the spread of the Coronavirus COVID-19 pandemic. Stay up-to-date with COVID-19 data summarized by country.
     <br />
-    <a href="https://github.com/johansonfelix/coronavirus-tracker/readme.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/johansonfelix/coronavirus-tracker/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://covidtrackapplication.herokuapp.com/)
 Since the pandemic began, a great deal of information has circulated online and on social media about COVID-19. While the pandemic is a serious issue, there is a lot of misinformation and a lot of emotions associated with it. 
 
 Coronavirus Tracker allows for one to look at the data rationally and to have the data speak for itself. The application tracks the total number of reported cases across the globe and the total number of cases reported per country and province.
@@ -212,3 +212,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/johanson-felix-336a94186/
 [product-screenshot]: src/main/resources/static/images/screen1.png
+[demo]:https://covidtrackapplication.herokuapp.com/
+[demo-badge]:https://img.shields.io/badge/-demo-green.svg?style=for-the-badge&color=green
