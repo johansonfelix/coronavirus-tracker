@@ -20,7 +20,7 @@
   <p align="center">
     Simple Spring Boot application tracking the spread of the Coronavirus COVID-19 pandemic. Stay up-to-date with COVID-19 data summarized by country.
     <br />
-    <a href="https://github.com/johansonfelix/coronavirus-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/johansonfelix/coronavirus-tracker/readme.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
