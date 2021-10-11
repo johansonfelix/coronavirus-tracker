@@ -1,11 +1,12 @@
 <div id="top"></div>
 
+<div align="center">
 [![github-follow][github-follow]][github-url]
 [![website][github-pages]][github-pages-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</div>
 
 
 <!-- PROJECT LOGO -->
@@ -195,7 +196,7 @@ Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 [github-follow]:https://img.shields.io/badge/Follow-black.svg?style=for-the-badge&logo=github&color=555
 [github-url]:https://github.com/johansonfelix
-[github-pages]:https://img.shields.io/badge/-johansonfelix-red
+[github-pages]:https://img.shields.io/badge/-johansonfelix-black?style=for-the-badge&color=555
 [github-pages-url]:https://johansonfelix.gihub.io
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/johansonfelix/coronavirus-tracker/issues
