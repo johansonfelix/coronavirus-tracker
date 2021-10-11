@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 [![github-follow][github-follow]][github-url]
-[![demo][demo]][demo-badge]
+[![demo][demo-badge]][demo]
 [![website][github-pages]][github-pages-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
