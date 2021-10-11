@@ -36,7 +36,7 @@
   <h1 align="center">Coronavirus Tracker Application</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Simple application tracking the spread of the Coronavirus COVID-19 pandemic. Stay up-to-date with COVID-19 data summarized by country.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
