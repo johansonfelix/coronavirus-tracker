@@ -140,7 +140,7 @@ To setup the application on your local environment:
 
 <h3>Disclaimer</h3>
 <ol>
-<li> Some state/values are saved in the Spring Service (bad practice). The application is simple and small which justifies my reason to have some state saved in the service.</li>
+<li> Some state/values are saved in the Spring Service (bad practice). The application is simple and small which justifies my reason to have some state saved there.</li>
 <li> The application does not have any tests at the moment</li>
 <li> The data validity is not checked. The application is experimental - data may be incorrect. </li>
 </ol>
