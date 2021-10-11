@@ -138,6 +138,7 @@ To setup the application on your local environment:
 - [] Add graphs and comparison mechanism
 - [] Add reported number of deaths and recovered cases data
 
+<h3>Disclaimer</h3>
 1. Some state/values are saved in the Spring Service (bad practice). The application is simple and small which justifies my reason to have some state saved in the service.
 2. The application does not have any tests at the moment.
 3. The data validity is not checked. The application is experimental - data may be incorrect.
