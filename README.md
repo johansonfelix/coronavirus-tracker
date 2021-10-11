@@ -138,9 +138,11 @@ To setup the application on your local environment:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<h3>Application uses pagination to display data</h3>
+<img src="src/main/resources/static/images/screen2.png" width="50%">
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<h3>Data can can also be filtered or searched</h3>
+<img src="src/main/resources/static/images/screen3.png" width="50%">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
