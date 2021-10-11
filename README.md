@@ -1,10 +1,12 @@
 <div id="top"></div>
 
 [![github-follow][github-follow]][github-url]
+[![demo][demo]][demo-badge]
 [![website][github-pages]][github-pages-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -23,7 +25,7 @@
     <a href="https://github.com/johansonfelix/coronavirus-tracker/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href=[demo]>View Demo</a>
     ·
     <a href="/issues">Report Bug</a>
     ·
