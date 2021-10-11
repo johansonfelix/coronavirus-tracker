@@ -178,9 +178,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Johanson Felix](johansonfelix.github.io) - (felix.johanson@gmail.com) 
-[LinkedIn][license-url]
-Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https://github.com/johansonfelix/coronavirus-tracker.git)
+* [Johanson Felix](johansonfelix.github.io) - (felix.johanson@gmail.com) 
+* [LinkedIn][license-url]</br>
+* Project Link: [https://github.com/johansonfelix/coronavirus-tracker.git](https://github.com/johansonfelix/coronavirus-tracker.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
