@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/johansonfelix/coronavirus-tracker">
     <img src="src/main/resources/static/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -25,11 +25,11 @@
     <a href="https://github.com/johansonfelix/coronavirus-tracker/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=[demo]>View Demo</a>
+    <a href="https://covidtrackapplication.herokuapp.com/">View Demo</a>
     ·
-    <a href="/issues">Report Bug</a>
+    <a href="https://github.com/johansonfelix/coronavirus-tracker/issues">Report Bug</a>
     ·
-    <a href="/issues">Request Feature</a>
+    <a href="https://github.com/johansonfelix/coronavirus-tracker/issues">Request Feature</a>
   </p>
 </div>
 
